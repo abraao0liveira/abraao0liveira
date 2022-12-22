@@ -1,4 +1,4 @@
-## Olá, me chamo Abraão Oliveira!
+## Hello, my name is Abraão Oliveira!
 
 <div align="center">
   <a href="https://github.com/abraao0liveira">
