@@ -1,4 +1,4 @@
-## Hello, my name is Abraão Oliveira!
+## Hi, i'm Abraão Oliveira!
 
 <div style= "display: inline_block">
   <img height = 115px src = https://github-readme-stats.vercel.app/api?username=abraao0liveira&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false<br/>
