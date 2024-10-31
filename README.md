@@ -6,8 +6,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="abraao0liveira-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="abraao0liveira-Dotnet" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="abraao0liveira-Csharp" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg">
+  <img align="center" alt="abraao0liveira-Dotnet" height="35" width="40" src="https://www.svgrepo.com/show/376369/dotnet.svg">
   <img align="center" alt="abraao0liveira-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="abraao0liveira-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="abraao0liveira-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
