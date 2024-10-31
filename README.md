@@ -14,6 +14,7 @@
   <img align="center" alt="abraao0liveira-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="abraao0liveira-NestJS" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="abraao0liveira-Csharp" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="abraao0liveira-Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##
