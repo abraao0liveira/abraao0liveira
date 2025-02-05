@@ -12,6 +12,7 @@
   <img align="center" alt="abraao0liveira-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="abraao0liveira-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="abraao0liveira-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="abraao0liveira-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="abraao0liveira-Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="abraao0liveira-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
   <img align="center" alt="abraao0liveira-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -22,4 +23,4 @@
 <div>
   <a href="https://www.linkedin.com/in/abraao0liveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300599C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+
